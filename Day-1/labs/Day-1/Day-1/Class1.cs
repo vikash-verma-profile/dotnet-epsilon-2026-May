@@ -32,20 +32,29 @@ namespace Day_1
         {
             c= a + b;
         }
+
+        static void SampleMethod(int a,int b=10,int c=20)
+        {
+            Console.WriteLine($"{a},{b}");
+        }
         static void Main(string[] args)
         {
-            string name = "vikash";
+            string name = "20";
             //int x = int.Parse(name);
-            // int x = int.TryParse(name,out);
+            bool x = int.TryParse(name,out int y);
+            Console.WriteLine($"y={y},x={x}");
+            Convert.ToInt16(name);
             //Console.WriteLine(x);
             //Sum(1,2);
-            int a = 1, b = 2;
-            int c, d;
-            //SwapRef(ref c, ref d);
-            //Console.WriteLine($"value of a:{a} , b:{b} in main");
-            int sum = 0;
-            PrintValue(a, b, out sum);
-            Console.WriteLine(sum);
+            //int a = 1, b = 2;
+            //int c, d;
+            ////SwapRef(ref c, ref d);
+            ////Console.WriteLine($"value of a:{a} , b:{b} in main");
+            //int sum = 0;
+            //PrintValue(a, b, out sum);
+            //Console.WriteLine(sum);
+
+            //SampleMethod(b:90,a:80,c:70);
         }
     }
 }
