@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudentApi/StudentApi.csproj" />
+  <Project Path="Sudent.TestProject/Sudent.TestProject.csproj" Id="37273d83-9a3b-4fd0-b5e4-876d6a74a5c3" />
+</Solution>

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "StudentApi.Controllers.StudentController",
+    "Method": "getAllStundents",
+    "RelativePath": "api/Student/get-all-students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,16 @@
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfo.cs
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.sourcelink.json
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\bin\Debug\net8.0\Student.Business.deps.json
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\bin\Debug\net8.0\Student.Business.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\bin\Debug\net8.0\Student.Business.pdb
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\bin\Debug\net8.0\Student.Data.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\bin\Debug\net8.0\Student.Data.pdb
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student..9ECBB527.Up2Date
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\refint\Student.Business.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\Student.Business.pdb
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Business\obj\Debug\net8.0\ref\Student.Business.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CECD9D-9343-18E4-7E5B-2FF18E0FCF20}|Day-3\\Day-3.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-3\\labs\\day-3\\day-3\\collectionsgenrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CECD9D-9343-18E4-7E5B-2FF18E0FCF20}|Day-3\\Day-3.csproj|solutionrelative:day-3\\collectionsgenrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CECD9D-9343-18E4-7E5B-2FF18E0FCF20}|Day-3\\Day-3.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-3\\labs\\day-3\\day-3\\collectionsnongenrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CECD9D-9343-18E4-7E5B-2FF18E0FCF20}|Day-3\\Day-3.csproj|solutionrelative:day-3\\collectionsnongenrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionsGenrics.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\CollectionsGenrics.cs",
+              "RelativeDocumentMoniker": "Day-3\\CollectionsGenrics.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\CollectionsGenrics.cs",
+              "RelativeToolTip": "Day-3\\CollectionsGenrics.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:51:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionsNonGenrics.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\CollectionsNonGenrics.cs",
+              "RelativeDocumentMoniker": "Day-3\\CollectionsNonGenrics.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\CollectionsNonGenrics.cs",
+              "RelativeToolTip": "Day-3\\CollectionsNonGenrics.cs",
+              "ViewState": "AgIAABIAAAAgmpmZmZklwCIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:39:29.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
