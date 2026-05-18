@@ -37,7 +37,7 @@ namespace Day_1
         {
             Console.WriteLine($"{a},{b}");
         }
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             string name = "20";
             //int x = int.Parse(name);
