@@ -6,7 +6,7 @@ internal class Program
     /// ajhsdg  hasdf aghsd
     /// </summary>
     /// <param name="args"></param>
-    static void Main(string[] args)
+    static void Main2(string[] args)
     {
         Console.WriteLine("Hello, World!");
         int Number1 = 2;
