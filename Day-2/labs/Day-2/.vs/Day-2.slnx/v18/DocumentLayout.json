@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-2\\labs\\Day-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91B355CD-F0E8-4E06-ACCB-298FEAF9499E}|Day-2\\Day-2.csproj|c:\\users\\om\\desktop\\dotnet\\day-2\\labs\\day-2\\day-2\\calss3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91B355CD-F0E8-4E06-ACCB-298FEAF9499E}|Day-2\\Day-2.csproj|solutionrelative:day-2\\calss3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9369F4A-8FAF-81B1-ADF0-3743CC22730C}|Day-2\\Day-2.csproj|c:\\users\\om\\desktop\\dotnet\\day-2\\labs\\day-2\\day-2\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9369F4A-8FAF-81B1-ADF0-3743CC22730C}|Day-2\\Day-2.csproj|solutionrelative:day-2\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Calss3.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-2\\labs\\Day-2\\Day-2\\Calss3.cs",
-              "RelativeDocumentMoniker": "Day-2\\Calss3.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-2\\labs\\Day-2\\Day-2\\Calss3.cs",
-              "RelativeToolTip": "Day-2\\Calss3.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwBsAAAAIAAAAAAAAAA==",
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-2\\labs\\Day-2\\Day-2\\Class4.cs",
+              "RelativeDocumentMoniker": "Day-2\\Class4.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-2\\labs\\Day-2\\Day-2\\Class4.cs",
+              "RelativeToolTip": "Day-2\\Class4.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T09:56:04.101Z",
+              "WhenOpened": "2026-05-19T11:13:32.955Z",
               "EditorCaption": ""
             }
           ]
