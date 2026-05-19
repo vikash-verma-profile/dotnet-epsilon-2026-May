@@ -14,7 +14,7 @@ namespace Day_1
     internal class Class2
     {
 
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             Console.WriteLine((int)UseStatus.DeActive);
             Console.WriteLine(Enum.Parse<UseStatus>("1"));

@@ -1,92 +1,33 @@
 ﻿namespace Day_2
 {
-
-    class Employee
+    class Person
     {
         //fields
-        //int id;
-        string EmployeeName;
-        //properties
-        //public int Id { get { return id; } set { id = value; } }
+        string name;
+        int age;
 
-        public int Id { get; set; }
-        //functions/methods
-        public Employee GetData()
+        //methods
+        public void Display()
         {
-            Console.WriteLine("Please enter employee record:");
-            Employee employee = new Employee();
-            employee.Id = Convert.ToInt32(Console.ReadLine());
-            employee.EmployeeName = Console.ReadLine();
-            return employee;
+            Console.WriteLine($"{name},{age}");
         }
-
-        public void Display(Employee[] employeeList)
+        public void GetData()
         {
-            foreach (var employee in employeeList)
-            {
-                Console.WriteLine($"{employee.Id}-{employee.EmployeeName}");
-            }
-        }
-        //constructors
-        //default constructor
-        //public Employee()
-        //{
-
-        //}
-
-        private Employee()
-        {
-
-        }
-        //paramentized constructor
-
-        public int a;
-        //this keyword
-        public Employee(int a)
-        {
-            this.a = a;
-            Console.WriteLine("This is a constructor  a= "+a+" this.a= "+this.a);
-        
-        }
-        static Employee()
-
-        {
-            Console.WriteLine("I am a static contructor");
-
-        }  
-        public  Employee(Employee emp)
-        {
-            this.a = emp.a;
-        }
-        //destructors
-        //indexers
-
-        ~Employee()
-        {
-            Console.WriteLine("Called");
+            name=Console.ReadLine();
+            age = Convert.ToInt16(Console.ReadLine());
         }
     }
     internal class Program
     {
         static void Main1(string[] args)
         {
-            
-            //Employee[] employeeList = new Employee[3];
-            //Employee emp = new Employee();
-            //emp.Id = 1;
-            //for (int i = 0; i < employeeList.Length; i++)
-            //{
-            //    employeeList[i] = emp.GetData();
-            //}
-
-            //emp.Display(employeeList);
-            Employee employee = new Employee(2);
-            Employee employee1 = new Employee(employee);
-            Console.WriteLine(employee1.a);
-
-
-           // Employee employee1 = new Employee();
-
+            Person person = new Person();
+            Person[] persons = new Person[2]; 
+            //person.name = "vikash";
+            //person.age = 12;
+            //Console.WriteLine($"{person.name},{person.age}");
+            person.GetData();
+            person.Display();
         }
     }
 }

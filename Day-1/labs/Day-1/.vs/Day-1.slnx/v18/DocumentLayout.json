@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-1\\labs\\Day-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|c:\\users\\om\\desktop\\dotnet\\day-1\\labs\\day-1\\day-1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|solutionrelative:day-1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|c:\\users\\om\\desktop\\dotnet\\day-1\\labs\\day-1\\day-1\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|solutionrelative:day-1\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-1\\labs\\Day-1\\Day-1\\Class2.cs",
-              "RelativeDocumentMoniker": "Day-1\\Class2.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-1\\labs\\Day-1\\Day-1\\Class2.cs",
-              "RelativeToolTip": "Day-1\\Class2.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Title": "JaggedArray.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-1\\labs\\Day-1\\Day-1\\JaggedArray.cs",
+              "RelativeDocumentMoniker": "Day-1\\JaggedArray.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-1\\labs\\Day-1\\Day-1\\JaggedArray.cs",
+              "RelativeToolTip": "Day-1\\JaggedArray.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:18:08.707Z",
+              "WhenOpened": "2026-05-18T12:56:07.283Z",
               "EditorCaption": ""
             }
           ]
