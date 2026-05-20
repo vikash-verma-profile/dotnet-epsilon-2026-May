@@ -28,7 +28,7 @@ namespace Day_2
     }
     internal class Class4
     {
-        public static void Main()
+        public static void Main4()
         {
             Calculator c1=new Calculator(10);
             Calculator c2 = new Calculator(20);

@@ -1,6 +1,6 @@
 ﻿namespace Day_2
 {
-    class Person
+    class Person2
     {
         //fields
         string name;
@@ -21,13 +21,13 @@
     {
         static void Main1(string[] args)
         {
-            Person person = new Person();
-            Person[] persons = new Person[2]; 
-            //person.name = "vikash";
-            //person.age = 12;
-            //Console.WriteLine($"{person.name},{person.age}");
-            person.GetData();
-            person.Display();
+            Person2 Person2 = new Person2();
+            Person2[] Person2s = new Person2[2]; 
+            //Person2.name = "vikash";
+            //Person2.age = 12;
+            //Console.WriteLine($"{Person2.name},{Person2.age}");
+            Person2.GetData();
+            Person2.Display();
         }
     }
 }
