@@ -8,17 +8,18 @@ namespace Day_3
 {
     internal class Class3
     {
-        public static void Main()
+        public static void Main4()
         {
             try
             {
                 int a, b;
                 a = 6; b = 0;
                 //int c = a / b;
-                int[] array = new int[2];
-                System.Console.WriteLine(array[3]);
+                //int[] array = new int[2];
+                //System.Console.WriteLine(array[3]);
+                Console.WriteLine("No exception");
             }
-          
+
             catch (DivideByZeroException ex)
             {
                 Console.WriteLine(ex.Message);
@@ -36,6 +37,10 @@ namespace Day_3
                 Console.WriteLine(ex.StackTrace);
                 Console.WriteLine("=========================");
                 Console.WriteLine("Some error occured");
+            }
+            finally
+            {
+                Console.WriteLine("asdasd");
             }
             
         }
