@@ -26,7 +26,7 @@ namespace Day_3
 
     internal class Class2
     {
-        public static void Main()
+        public static void Main3()
         {
             Sample s = new Sample("Vikash");
             Console.WriteLine(s.GetType());
