@@ -30,7 +30,7 @@ namespace Day_3
     }
     internal class Class1
     {
-        public static void Main()
+        public static void Main2()
         {
 
         }
