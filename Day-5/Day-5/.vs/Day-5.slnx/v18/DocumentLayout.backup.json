@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\",
+  "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-5\\Day-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34C1E950-0B63-43D2-3919-4B00A0F4FDC1}|Day-5\\Day-5.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-5\\day-5\\day-5\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34C1E950-0B63-43D2-3919-4B00A0F4FDC1}|Day-5\\Day-5.csproj|solutionrelative:day-5\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6BC8939-E08B-4344-9B27-6D8DCE1BA04D}|Day-5\\Day-5.csproj|c:\\users\\om\\desktop\\dotnet\\day-5\\day-5\\day-5\\jsonser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BC8939-E08B-4344-9B27-6D8DCE1BA04D}|Day-5\\Day-5.csproj|solutionrelative:day-5\\jsonser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LInq.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\Day-5\\LInq.cs",
-              "RelativeDocumentMoniker": "Day-5\\LInq.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\Day-5\\LInq.cs",
-              "RelativeToolTip": "Day-5\\LInq.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAABOAAAAAAAAAA==",
+              "Title": "JsonSer.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-5\\Day-5\\Day-5\\JsonSer.cs",
+              "RelativeDocumentMoniker": "Day-5\\JsonSer.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-5\\Day-5\\Day-5\\JsonSer.cs",
+              "RelativeToolTip": "Day-5\\JsonSer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T05:40:06.967Z",
+              "WhenOpened": "2026-05-22T12:19:23.479Z",
               "EditorCaption": ""
             }
           ]

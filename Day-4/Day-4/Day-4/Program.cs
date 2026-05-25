@@ -1,6 +1,6 @@
 ﻿namespace Day_4
 {
-    class Sample<T>
+    class Sample<T> where T:class 
     {
         T a, b;
 
@@ -20,20 +20,22 @@
     internal class Program
     {
 
-
         public static void Sum<T>(T a,T b)
         {
             dynamic a1 = a;
             dynamic b1 = b;
             Console.WriteLine(a1+b1);
         }
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             //Sum<int>(1, 2);
             //Sum<string>("Vikash","Verma");
 
-            Sample<int> sample = new Sample<int>(1,2);
-            sample.Print();
+            //Sample<int> sample = new Sample<int> (1,2);
+
+            //int x = null;
+
+            //sample.Print();
         }
     }
 }

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15FD0A5C-43DD-4335-A21F-5D99DA851841}|Day-4\\Day-4.csproj|c:\\users\\om\\desktop\\dotnet\\day-4\\day-4\\day-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15FD0A5C-43DD-4335-A21F-5D99DA851841}|Day-4\\Day-4.csproj|solutionrelative:day-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15FD0A5C-43DD-4335-A21F-5D99DA851841}|Day-4\\Day-4.csproj|c:\\users\\om\\desktop\\dotnet\\day-4\\day-4\\day-4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15FD0A5C-43DD-4335-A21F-5D99DA851841}|Day-4\\Day-4.csproj|solutionrelative:day-4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC756496-5035-5474-7E0E-4C08C07885B1}|Day-4\\Day-4.csproj|c:\\users\\om\\desktop\\dotnet\\day-4\\day-4\\day-4\\class8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC756496-5035-5474-7E0E-4C08C07885B1}|Day-4\\Day-4.csproj|solutionrelative:day-4\\class8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\Day-4\\Class1.cs",
-              "RelativeDocumentMoniker": "Day-4\\Class1.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\Day-4\\Class1.cs",
-              "RelativeToolTip": "Day-4\\Class1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T09:21:27.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\Day-4\\Program.cs",
-              "RelativeDocumentMoniker": "Day-4\\Program.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\Day-4\\Program.cs",
-              "RelativeToolTip": "Day-4\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Title": "Class8.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\Day-4\\Class8.cs",
+              "RelativeDocumentMoniker": "Day-4\\Class8.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-4\\Day-4\\Day-4\\Class8.cs",
+              "RelativeToolTip": "Day-4\\Class8.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T09:13:37.719Z",
+              "WhenOpened": "2026-05-21T13:02:31.461Z",
               "EditorCaption": ""
             }
           ]
