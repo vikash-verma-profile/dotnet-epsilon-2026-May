@@ -1,0 +1,22 @@
+﻿@model List<Employee>
+
+
+<div class="p-3 m-0 border-0 bd-example m-0 border-0">
+
+    
+    @{
+        foreach (var item in Model)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Id</h5>
+                    <p class="card-text">@item.Name</p>
+                    <a href="#" class="btn btn-primary">Details</a>
+                </div>
+            </div>
+        }
+    }
+    
+</div>
+

@@ -1,34 +1,59 @@
-﻿using System.Data.SqlClient;
+﻿using System.Data;
+using System.Data.SqlClient;
 
 namespace Day_7
 {
     internal class Program
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
-            string connectionString = "Data Source=DESKTOP-CUO3FKB;Initial Catalog=ConnectionTestDB;Integrated Security=True;";
-            SqlConnection connection = new SqlConnection(connectionString);
-            connection.Open();
+            string connectionString =
+                "Data Source=DESKTOP-CUO3FKB;Initial Catalog=SampleDb5;Integrated Security=True;";
 
-            //Get Data
-            //SqlCommand cmd = new SqlCommand("select * from tblStudent",connection);
-            //SqlDataReader reader=cmd.ExecuteReader();
+            // CONNECTION
+            SqlConnection con = new SqlConnection(connectionString);
 
-            //while (reader.Read())
-            //{
-            //    Console.WriteLine($"{reader["Id"]}-{reader["Name"]}-{reader["Address"]}");
-            //}
+            con.Open();
 
-            //Insert Data
-            SqlCommand cmd = new SqlCommand("insert into tblStudent values(@name,@gender,@address)", connection);
-            cmd.Parameters.AddWithValue("@name", "Mukesh");
-            cmd.Parameters.AddWithValue("@gender", "Male");
-            cmd.Parameters.AddWithValue("@address", "Mumbai");
-            cmd.ExecuteNonQuery();
+            // DATA ADAPTER
+            SqlDataAdapter sqlDataAdapter =
+                new SqlDataAdapter("SELECT * FROM sample", con);
 
-           
-            //Console.WriteLine("Connection is live");
-            connection.Close();
+            // IMPORTANT
+            SqlCommandBuilder builder =
+                new SqlCommandBuilder(sqlDataAdapter);
+
+            // DATASET
+            DataSet ds = new DataSet();
+
+            sqlDataAdapter.Fill(ds, "sample");
+
+            Console.WriteLine("==== Existing Data ====");
+
+            foreach (DataRow item in ds.Tables["sample"].Rows)
+            {
+                Console.WriteLine($"{item["id"]} | {item["text"]}");
+            }
+
+            // NEW ROW
+            DataRow row = ds.Tables["sample"].NewRow();
+
+            row["id"] = 8;
+            row["text"] = "Ram";
+
+            ds.Tables["sample"].Rows.Add(row);
+
+            // UPDATE DATABASE
+            sqlDataAdapter.Update(ds, "sample");
+
+            Console.WriteLine("==== Data Added ====");
+
+            foreach (DataRow item in ds.Tables["sample"].Rows)
+            {
+                Console.WriteLine($"{item["id"]} | {item["text"]}");
+            }
+
+            con.Close();
         }
     }
 }

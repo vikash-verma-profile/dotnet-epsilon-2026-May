@@ -37,7 +37,7 @@ namespace Day_6
     }
     internal class Class1
     {
-        public static void Main()
+        public static void Main2()
         {
             using (var log = new FileLogger("app.log"))
             {

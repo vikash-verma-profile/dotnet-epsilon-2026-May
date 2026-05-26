@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-7\\labs\\Day-7\\",
+  "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\Day-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D0E8F9-6D95-1690-4CEA-613279ECCACE}|Day-7\\Day-7.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-7\\labs\\day-7\\day-7\\disconnectedarc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D0E8F9-6D95-1690-4CEA-613279ECCACE}|Day-7\\Day-7.csproj|solutionrelative:day-7\\disconnectedarc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D0E8F9-6D95-1690-4CEA-613279ECCACE}|Day-7\\Day-7.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-7\\labs\\day-7\\day-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D0E8F9-6D95-1690-4CEA-613279ECCACE}|Day-7\\Day-7.csproj|solutionrelative:day-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E89B12-14DD-444D-A994-CB9B1F52866C}|Day-7\\Day-7.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\day-7\\day-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E89B12-14DD-444D-A994-CB9B1F52866C}|Day-7\\Day-7.csproj|solutionrelative:day-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DisconnectedArc.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-7\\labs\\Day-7\\Day-7\\DisconnectedArc.cs",
-              "RelativeDocumentMoniker": "Day-7\\DisconnectedArc.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-7\\labs\\Day-7\\Day-7\\DisconnectedArc.cs",
-              "RelativeToolTip": "Day-7\\DisconnectedArc.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T05:15:15.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-7\\labs\\Day-7\\Day-7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\Day-7\\Day-7\\Program.cs",
               "RelativeDocumentMoniker": "Day-7\\Program.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-7\\labs\\Day-7\\Day-7\\Program.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\Day-7\\Day-7\\Program.cs",
               "RelativeToolTip": "Day-7\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T03:53:40.392Z",
+              "WhenOpened": "2026-05-26T09:17:44.768Z",
               "EditorCaption": ""
             }
           ]
