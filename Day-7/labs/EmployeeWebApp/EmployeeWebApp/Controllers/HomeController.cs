@@ -29,5 +29,22 @@ namespace EmployeeWebApp.Controllers
             con.Close();
             return View(employeeList);
         }
+
+        public IActionResult Create()
+        {
+            Employee emp = new Employee();
+            return View("Submit",emp);
+        }
+
+        public IActionResult Edit(int EmployeeId)
+        {
+            Employee emp = new Employee();
+            return View("Submit", emp);
+        }
+        public IActionResult Submit(Employee employee) {
+            
+            return RedirectToAction("Index");
+        }
+
     }
 }

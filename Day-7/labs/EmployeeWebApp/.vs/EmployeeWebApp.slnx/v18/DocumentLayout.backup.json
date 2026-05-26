@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15A93C54-B00D-455B-BC8A-C04B8082F93E}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A93C54-B00D-455B-BC8A-C04B8082F93E}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A93C54-B00D-455B-BC8A-C04B8082F93E}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15A93C54-B00D-455B-BC8A-C04B8082F93E}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A93C54-B00D-455B-BC8A-C04B8082F93E}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A93C54-B00D-455B-BC8A-C04B8082F93E}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\views\\home\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\views\\home\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|c:\\users\\om\\desktop\\dotnet\\day-7\\labs\\employeewebapp\\employeewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2B9B79-997F-920F-B611-B2C2D609F57F}|EmployeeWebApp\\EmployeeWebApp.csproj|solutionrelative:employeewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T12:31:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Views\\Home\\Submit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeWebApp\\Views\\Home\\Submit.cshtml",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Views\\Home\\Submit.cshtml",
+              "RelativeToolTip": "EmployeeWebApp\\Views\\Home\\Submit.cshtml",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T12:26:10.408Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -39,26 +73,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeeWebApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EmployeeWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-26T11:00:23.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EmployeeWebApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-7\\labs\\EmployeeWebApp\\EmployeeWebApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EmployeeWebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAlwBkAAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawCYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T10:59:57.116Z",
               "EditorCaption": ""
