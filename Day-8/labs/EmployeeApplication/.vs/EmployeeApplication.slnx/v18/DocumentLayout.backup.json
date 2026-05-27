@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T09:58:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T09:42:05.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T09:21:14.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

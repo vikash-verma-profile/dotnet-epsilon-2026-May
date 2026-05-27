@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="Student.Business/Student.Business.csproj" />
-  <Project Path="Student.Data/Student.Data.csproj" />
-  <Project Path="Student.Web/Student.Web.csproj" Id="0e8cf24d-b089-4301-833a-c32877354730" />
-  <Project Path="StudentApi/StudentApi.csproj" />
-</Solution>
