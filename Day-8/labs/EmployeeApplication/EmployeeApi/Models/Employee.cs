@@ -1,8 +1,11 @@
-﻿namespace EmployeeApi.Models
+﻿using System;
+using System.Collections.Generic;
+
+namespace EmployeeApi.Models;
+
+public partial class Employee
 {
-    public class Employee
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-    }
+    public int Id { get; set; }
+
+    public string? Text { get; set; }
 }

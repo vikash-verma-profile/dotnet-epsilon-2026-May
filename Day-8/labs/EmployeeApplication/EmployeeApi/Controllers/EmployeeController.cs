@@ -9,41 +9,44 @@ namespace EmployeeApi.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        public static List<Employee> employees = new List<Employee>() 
-        { new Employee { Id=101,Name="Rakesh"},
-            new Employee {  Id=102,Name="Varun"} };
-       
+        //public static List<Employee> employees = new List<Employee>()
+        //{ new Employee { Id=101,Name="Rakesh"},
+        //    new Employee {  Id=102,Name="Varun"} };
+        SampleDb5Context db = new SampleDb5Context();
         [HttpGet]
         public IActionResult GetName()
         {
-            return Ok(employees);
+            return Ok(db.Employees);
         }
         [HttpPost]
         public IActionResult PostEmployee(Employee emp)
         {
-            employees.Add(emp);
-            return Ok(new { Message="record added sucessfully!!." });
+            db.Employees.Add(emp);
+            db.SaveChanges();
+            return Ok(new { Message = "record added sucessfully!!." });
         }
         [HttpPut("{id}")]
-        public IActionResult GetName(int id,Employee emp)
+        public IActionResult GetName(int id, Employee emp)
         {
-            var employee = employees.Where(x => x.Id == id).FirstOrDefault();
+            var employee = db.Employees.Where(x => x.Id == id).FirstOrDefault();
             if (employee == null)
             {
                 return BadRequest("Employee is not present...");
             }
-            employee.Name = emp.Name;
+            employee.Text = emp.Text;
+            db.SaveChanges();
             return Ok(new { Message = "record updated sucessfully!!." });
         }
         [HttpDelete("{id}")]
         public IActionResult GetName(int id)
         {
-            var employee = employees.Where(x => x.Id == id).FirstOrDefault();
+            var employee = db.Employees.Where(x => x.Id == id).FirstOrDefault();
             if (employee == null)
             {
                 return BadRequest("Employee is not present...");
             }
-            employees.Remove(employee);
+            db.Employees.Remove(employee);
+            db.SaveChanges();
             return Ok(new { Message = "record deleted sucessfully!!." });
         }
     }

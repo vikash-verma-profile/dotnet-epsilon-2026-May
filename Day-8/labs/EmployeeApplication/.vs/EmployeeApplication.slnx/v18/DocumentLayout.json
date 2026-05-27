@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\models\\sampledb5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\sampledb5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE902E6-CED8-4FD7-810B-CC47DC87CAFC}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\om\\desktop\\dotnet\\day-8\\labs\\employeeapplication\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\Employee.cs",
-              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SampleDb5Context.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\SampleDb5Context.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\SampleDb5Context.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\SampleDb5Context.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\SampleDb5Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:58:30.911Z",
+              "WhenOpened": "2026-05-27T11:18:44.094Z",
               "EditorCaption": ""
             },
             {
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T09:21:14.799Z",
               "EditorCaption": ""
