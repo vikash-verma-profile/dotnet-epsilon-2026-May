@@ -1,40 +1,50 @@
 ﻿using Ecommerce.WebApp.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Text;
 using System.Text.Json;
 
 namespace Ecommerce.WebApp.Controllers
 {
-    public class ProductController : Controller
+    public class LoginController : Controller
     {
-        // GET: ProductController
+        // GET: LoginController
         public ActionResult Index()
         {
-            HttpClient client = new HttpClient();
-            var response = client.GetAsync("https://localhost:7083/api/Products").Result;
-            var json = response.Content.ReadAsStringAsync().Result;
-            var productList = JsonSerializer.Deserialize<IEnumerable<Product>>(
-                json,
-                new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                });
-            return View(productList);
+            Login login = new Login();
+            return View("Create", login);
         }
 
-        // GET: ProductController/Details/5
+        // GET: LoginController/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: ProductController/Create
-        public ActionResult Create()
+ 
+        [HttpPost]
+        public async Task<IActionResult> Login(Login login)
         {
-            return View();
+            StringContent content = new StringContent(
+                JsonSerializer.Serialize(login),
+                Encoding.UTF8,
+                "application/json");
+
+            HttpClient client = new HttpClient();
+
+            HttpResponseMessage response = await client.PostAsync(
+                "https://localhost:7083/api/Logins",
+                content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Index", "Product", "");
+            }
+
+            return View(login);
         }
 
-        // POST: ProductController/Create
+        // POST: LoginController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(IFormCollection collection)
@@ -49,13 +59,13 @@ namespace Ecommerce.WebApp.Controllers
             }
         }
 
-        // GET: ProductController/Edit/5
+        // GET: LoginController/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: ProductController/Edit/5
+        // POST: LoginController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -70,13 +80,13 @@ namespace Ecommerce.WebApp.Controllers
             }
         }
 
-        // GET: ProductController/Delete/5
+        // GET: LoginController/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: ProductController/Delete/5
+        // POST: LoginController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
