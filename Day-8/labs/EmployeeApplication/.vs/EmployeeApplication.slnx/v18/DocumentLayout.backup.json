@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "EmployeeApi\\Models\\SampleDb5Context.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\DotNet\\Day-8\\labs\\EmployeeApplication\\EmployeeApi\\Models\\SampleDb5Context.cs",
               "RelativeToolTip": "EmployeeApi\\Models\\SampleDb5Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAABgmZmZmZkpwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T11:18:44.094Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "EmployeeApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:42:05.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T09:42:05.583Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAawBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:21:14.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T09:21:14.799Z"
             }
           ]
         }
